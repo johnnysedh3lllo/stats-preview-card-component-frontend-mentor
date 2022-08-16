@@ -24,11 +24,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]
-(https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-built-with-css-flexbox-jzqY9GQY58)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-built-with-css-flexbox-jzqY9GQY58)
 
-- Live Site URL: [GitHub]
-(https://johnnysedh3lllo.github.io/stats-preview-card-component-frontend-mentor/)
+- Live Site URL: [GitHub](https://johnnysedh3lllo.github.io/stats-preview-card-component-frontend-mentor/)
 
 
 ## My process
@@ -48,8 +46,8 @@ i used this challenge to understand how to interchange images as well as try out
 in other projects i will focus more on building websites with responsive layouts.
 
 ### Author
-- GitHub - [johnnysedh3lllo] (https://github.com/johnnysedh3lllo)
+- GitHub - [johnnysedh3lllo](https://github.com/johnnysedh3lllo)
 
-- Frontend Mentor - [@johnnysedh3lllo] (https://www.frontendmentor.io/profile/johnnysedh3lllo)
+- Frontend Mentor - [@johnnysedh3lllo](https://www.frontendmentor.io/profile/johnnysedh3lllo)
 
 - Twitter - [@johnnysedh3lllo](https://www.twitter.com/johnnysedh3lllo)
